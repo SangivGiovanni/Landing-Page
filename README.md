@@ -1,6 +1,6 @@
 # Project-Landing-Page
 
-An example Landing page for the WebScraping project using html, css and boopstrap!
+### An example Landing page for the WebScraping project using html, css and boopstrap!
 
 Open project.html to view Landing Page on your browser
 
